@@ -8,9 +8,11 @@
 ###A React Component
 - The render method
 - Setting state
+  - 'this' will represent our component
+  - 'this.setState' will
 - Event handling
 - Templating
-  - Map & Filter
+  - Map & Filter (KEYS NEED TO BE UNIQUE!)
 
 ###React Components
 - Parent to child relationship
